@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentvpdate",
+        "uuid": 5722619,
+        "checksum": "r6fmck"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "production"
+    }
+}
